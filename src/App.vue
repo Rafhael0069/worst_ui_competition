@@ -92,11 +92,7 @@ export default {
   name: 'App',
   components: { Modal },
   setup() {
-    const countries = ref([
-      { name: 'Brasil', gold: 7, silver: 6, bronze: 8, total: 21 },
-      { name: 'Estados Unidos', gold: 39, silver: 41, bronze: 33, total: 113 },
-      { name: 'China', gold: 38, silver: 32, bronze: 18, total: 88 },
-    ]);
+    const countries = ref([]);
 
     const showModal = ref(false);
     const selectedCountry = ref(null);

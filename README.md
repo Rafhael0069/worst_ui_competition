@@ -39,7 +39,7 @@ If you're brave enough and want to see this masterpiece up close, follow the ste
 
 If you'd rather avoid the hassle of running it locally and still want to torture your eyes, visit the online version of the project:
 
-**[Visit the Worst Olympics UI](https://your-online-page.com)**
+**[Visit the Worst Olympics UI](https://olimpicscoreboard.netlify.app/)**
 
 ### 📢 **Warning**
 
